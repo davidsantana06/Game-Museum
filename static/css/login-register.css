@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+.container {
+    font-family: 'Poppins', sans-serif;
+}
+
+.alert {
+    font-weight: 400;
+    font-size: small;
+}
+
+.input-label {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: small;
+    color: #808080;
+}
+
+.form-text {
+    font-weight: 300;
+}
+
+.btn-primary {
+    font-weight: 500;
+}
+
+.form-control:focus {
+    border-color: #CED4DA !important;
+    box-shadow: 0 0 0 0.2rem rgba(146, 146, 146, 0.25) !important;
+}
