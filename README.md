@@ -1,4 +1,4 @@
-### :warning: Desenvolvimento pausado
+<h3 align="center">:warning: DESENVOLVIMENTO PAUSADO</h3>
 
 ### 1. Resumo
 <div align="justify">
