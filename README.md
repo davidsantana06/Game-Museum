@@ -1,6 +1,6 @@
 <h3 align="center">:warning: DESENVOLVIMENTO PAUSADO</h3>
 
-### 1. Resumo
+## 1. Resumo
 <div align="justify">
   (PT-BR) Game Museum é uma aplicação web que funciona como uma rede social para realizar publicações a respeito de jogos. Nele, é possível adicionar 
   reviews contando, para isso, com o nome do jogo, nota e descrição do post. Nesse sentido, é válido dizer que as publicações podem ser feitas 
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-### 2. Andamento do projeto
+## 2. Andamento do projeto
 - [ ] Logo e imagens;
 - [x] Documentação básica;
 - [ ] Esquemas conceitual e lógico;
@@ -23,14 +23,12 @@
 - [ ] Aplicação completa.
 <br><br>
 ### 3. Linguagens e tecnologias utilizadas
-**Back-end:**
-Python, Flask e SQLAlchemy.
+**Back-end**: Python, Flask e SQLAlchemy.
 
-**Front-end:**
-HTML, CSS e Bootstrap.
+**Front-end**: HTML, CSS e Bootstrap.
 <br><br>
 
-### 4. Especificações
+## 4. Especificações
 <div align="justify">
   O funcionamento da aplicação terá, essencialmente, foco nos usuários; estes poderão usar a aplicação anônimamente, ser identificado por 
   meio de um alias temporário - o qual permanecerá alocado por até 24h, desde que não esteja sendo usado por outro usuário - além de criar
@@ -43,9 +41,9 @@ HTML, CSS e Bootstrap.
 </div>
 <br>
 
-### 5. Esquemas
+## 5. Esquemas
 Em desenvolvimento.
 <br><br>
 
-### 6. Protótipos
+## 6. Protótipos
 Em desenvolvimento.
